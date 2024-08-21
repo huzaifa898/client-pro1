@@ -39,7 +39,7 @@ const MarketingSection = () => {
   };
 
   return (
-    <div className="bg-lime-400 py-16">
+    <div className="bg-lime-400 py-12">
       <motion.h2
         className="text-center text-4xl font-bold text-black mb-16"
         variants={headingVariants}
