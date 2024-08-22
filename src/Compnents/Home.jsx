@@ -6,6 +6,8 @@ import Banner2 from './Banner2'
 import ValueSection from './ValueSection'
 import ConsultingSection from './ConsultingSection'
 import MarketingSolutions from './MarketingSolutions'
+import FeaturesSection from './FeaturesSection'
+import Response from './Response'
 function Home() {
   return (
    <>
@@ -16,6 +18,8 @@ function Home() {
    <ValueSection/>
    <ConsultingSection/>
    <MarketingSolutions/>
+   <FeaturesSection/>
+   <Response/>
    </>
   )
 }
