@@ -8,6 +8,7 @@ import ConsultingSection from './ConsultingSection'
 import MarketingSolutions from './MarketingSolutions'
 import FeaturesSection from './FeaturesSection'
 import GetInTouch from './GetInTouch'
+import Footer from './Footer'
 function Home() {
   return (
    <>
@@ -20,6 +21,7 @@ function Home() {
    <MarketingSolutions/>
    <FeaturesSection/>
    <GetInTouch/>
+   <Footer/>
    </>
   )
 }

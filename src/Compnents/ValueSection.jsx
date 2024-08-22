@@ -36,7 +36,7 @@ const ValueSection = () => {
                 initial={{ x: -100, opacity: 0 }}
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ duration: 0.5, delay: index * 0.3 }}
-                className="text-2xl font-semibold mb-2 w-1/2 text-left"
+                className="text-2xl font-semibold mb-2 w-1/2 text-left "
               >
                 {value.title}
               </motion.div>
@@ -44,7 +44,7 @@ const ValueSection = () => {
                 initial={{ x: 100, opacity: 0 }}
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ duration: 0.5, delay: index * 0.3 }}
-                className="text-lg w-1/2 text-left"
+                className="text-lg w-1/2 text-left text-justify"
               >
                 {value.description}
               </motion.div>
