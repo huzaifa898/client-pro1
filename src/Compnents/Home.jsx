@@ -7,7 +7,7 @@ import ValueSection from './ValueSection'
 import ConsultingSection from './ConsultingSection'
 import MarketingSolutions from './MarketingSolutions'
 import FeaturesSection from './FeaturesSection'
-import Response from './Response'
+import GetInTouch from './GetInTouch'
 function Home() {
   return (
    <>
@@ -19,7 +19,7 @@ function Home() {
    <ConsultingSection/>
    <MarketingSolutions/>
    <FeaturesSection/>
-   <Response/>
+   <GetInTouch/>
    </>
   )
 }
