@@ -46,7 +46,7 @@ const MarketingSection = () => {
         initial="hidden"
         animate="visible"
       >
-        We Create Marketing Solutions
+        We Create Marketing Solutions For Right People To Invest Where
       </motion.h2>
       <div className="flex justify-center space-x-6">
         {["Agility", "Strength", "Quickness", "Power"].map((title, index) => (

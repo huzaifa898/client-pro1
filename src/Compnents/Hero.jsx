@@ -28,10 +28,10 @@ const HeroSection = () => {
           </h1>
           <div className="mt-8 space-x-6">
             <button className="bg-yellow-500 text-gray-900 px-8 py-3 rounded-lg font-semibold hover:bg-yellow-600">
-              About Us
+              ABOUT US
             </button>
             <button className="bg-yellow-500 text-gray-900 px-8 py-3 rounded-lg font-semibold hover:bg-yellow-600">
-              Our Cases
+              OUR CASES
             </button>
           </div>
         </motion.div>
